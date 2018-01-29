@@ -12,3 +12,9 @@ MP 1                                         |  MP 2                            
 MP 4                                         |  MP 5
 :--------------------------------------------------------:|:------------------------------------:
 ![](https://github.com/AndroidCodility/Multiple-Permissions/blob/master/design/m4.png?raw=true)  |  ![](https://github.com/AndroidCodility/Multiple-Permissions/blob/master/design/m5.png?raw=true)
+
+# Play Video
+[![](https://github.com/AndroidCodility/Multiple-Permissions/blob/master/design/multi_permission.png?raw=true)](https://youtu.be/LS84ipHs220 "Click here to watch")
+
+# Like Facebook Page
+[![](https://github.com/AndroidCodility/Barchart-Graph/blob/master/design/fb.png?raw=true)](https://www.facebook.com/androidcodility/ "Click here")
